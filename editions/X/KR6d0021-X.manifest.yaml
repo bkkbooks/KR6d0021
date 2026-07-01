@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR6d0021/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0021/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經文句格言
+  identifiers:
+    krp: KR6d0021
+    cbeta: X29n0598
+    cbeta_old_id: X29n0598
+    authorityid: CA0000870
+    json_key: X0598
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X29/X29n0598.xml
+    old_id: X29n0598
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0021_000-X.yaml, hash: 'sha256:6d29ab16d1f706e032a3acca27fbc59040f6209e349e60d26f12cf256b602ca9'}
+  - {seq: 1, filename: KR6d0021_001-X.yaml, hash: 'sha256:a2587eb8404fff8602d2d7c794db213218c44a3fca6989d9ce1888362783d423'}
+  - {seq: 2, filename: KR6d0021_002-X.yaml, hash: 'sha256:ed373fd32bdd4c8b4af1f11117acf5a2dae0fe4a3be1dc1f7430ecf8ad8ae289'}
+  - {seq: 3, filename: KR6d0021_003-X.yaml, hash: 'sha256:760b7b488e1214062c7d9990cf9db56f7093ff05b86e5c9e464df9abd3415ccb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0021_000-X.markers.yaml, hash: 'sha256:01cadefede4f4c37b7297bbf33354cbcfb66b480b9cb3650b4d288a393e6f62e'}
+  - {seq: 1, role: markers, filename: assets/KR6d0021_001-X.markers.yaml, hash: 'sha256:9258d8195f374ee22fc9a99319cb673d361d4c4cca30ef4f97ede14e2c733da4'}
+  - {seq: 2, role: markers, filename: assets/KR6d0021_002-X.markers.yaml, hash: 'sha256:f3d0af84af3ad2dc83453698a0f655d0137c308b39f51446d8bffc6ce2554cdd'}
+  - {seq: 3, role: markers, filename: assets/KR6d0021_003-X.markers.yaml, hash: 'sha256:425d143a98d9a12da39092924f1bd31dc63c0d5865b4d77efcc1836c5deb9a2f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6d0021_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 21534
+  label: 文句格言卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0021_X_001-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 文句第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0021_X_001-mulu-2
+    span:
+    - body
+    - 8703
+    - 8703
+  label: 文句第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0021_X_001-mulu-3
+    span:
+    - body
+    - 12541
+    - 12541
+  label: 文句第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0021_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 18238
+  label: 文句格言卷中
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0021_X_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文句第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0021_X_002-mulu-2
+    span:
+    - body
+    - 5761
+    - 5761
+  label: 文句第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0021_X_002-mulu-3
+    span:
+    - body
+    - 10148
+    - 10148
+  label: 文句第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0021_X_002-mulu-4
+    span:
+    - body
+    - 13715
+    - 13715
+  label: 文句第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0021_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 15934
+  label: 文句格言卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0021_X_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 文句第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0021_X_003-mulu-2
+    span:
+    - body
+    - 4185
+    - 4185
+  label: 文句第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0021_X_003-mulu-3
+    span:
+    - body
+    - 10585
+    - 10585
+  label: 文句第十
+  type: mulu
+  level: 1
+hash: sha256:4e5b437e0266b65380f18296e8c25ba97d69dc53ecd6bb7d2114a155697b8b54

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6d0021/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經文句格言
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X29/X29n0598.xml
+    old_id: X29n0598
+hash: sha256:6d29ab16d1f706e032a3acca27fbc59040f6209e349e60d26f12cf256b602ca9
